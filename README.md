@@ -1,1 +1,1 @@
-# paint-github-4bc78
+github-4bc78
